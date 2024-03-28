@@ -7,7 +7,7 @@ My motivation for this project was to create an employee payroll tracker and to 
 ## Installation/Usage
 
 There is no need to install my project as it is just a webpage but to access it simply look under the deployments tab and click on my github page. To use simply click "Add Employees" and answer the prompts, it will log your first and last name as well as your salary and calculate an everage salary. Below is a screenshot of what the page should look like upon accessing.
-![Photo of Web Page](assets\employeepayrl.png)
+![Photo of Web Page](assets/employeepayrl.png)
 
 ## License 
 
